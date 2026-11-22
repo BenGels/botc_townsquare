@@ -1,0 +1,17 @@
+# Zugangsdaten
+townsquare/secrets.h
+
+# Build-Ausgaben (arduino-cli, Arduino IDE, PlatformIO)
+build/
+*.bin
+*.elf
+*.map
+.pio/
+
+# Editoren und Betriebssystem
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
